@@ -30,7 +30,7 @@ Follow these steps to set up and run the application locally:
 2. **Navigate to the Project Directory**:
 
    ```bash
-   cd lowda
+   cd Skill_Gap_Analyzer_ChatBot
    ```
 
 3. **Install Dependencies**:
@@ -44,7 +44,7 @@ Follow these steps to set up and run the application locally:
    Start the Streamlit app:
 
    ```bash
-   streamlit run main.py
+   streamlit run index.py
    ```
 
 5. **Access the App**:
