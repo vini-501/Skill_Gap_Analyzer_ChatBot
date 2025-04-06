@@ -2,6 +2,9 @@
 
 The **AI Skill Gap Analyzer** is a Streamlit-based application designed to help users identify their skill gaps and provide personalized learning roadmaps for career growth. It leverages AI-powered tools to analyze user input, resumes, and career goals to recommend actionable steps for skill development.
 
+Try it !
+Its deployed ::: https://skillgapanalyzerchatbot-vini.streamlit.app/
+
 ---
 
 ## ✨ Features
